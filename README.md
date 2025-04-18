@@ -2,8 +2,16 @@
 
 Description. 
 The package package_name is used to:
-	- 
-	-
+	Processamento:	
+		- Correspondência de Histograma
+		- Similaridades Estrutural
+		- Redimensionar Imagem
+	Utilidades:
+		- Ler Imagem
+		- Salvar Imagem
+		- Plot Imagem
+		- Plot Resultado
+		- Plot Histograma
 
 ## Installation
 
@@ -21,7 +29,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+Matheus de Souza Soares
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
